@@ -119,6 +119,6 @@ public class Main {
 
         pizzaPersonalizada.prepare();
         precioTotal = toppingPrecio + precioPizza;
-        System.out.println("¡Pizza Personalizada lista para disfrutar! Precio total: $" + precioTotal);
+        System.out.println("¡Pizza Personalizada lista para disfrutar! Precio total $" + precioTotal);
     }
 }
